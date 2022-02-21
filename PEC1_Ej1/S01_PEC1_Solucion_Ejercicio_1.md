@@ -30,6 +30,8 @@ como controles de versiones y herramientas de gestión de módulos (0.75 puntos)
 >* Cita al menos dos sistemas de control de versiones y dos herramientas de
 gestión de módulos.
 >
+> Dos sistemas de control de versiones pueden ser Concurrent Version System o CVS y el propio Git que utilizamos en la asignatura. Como ejemplos de herramientas de gestión de módulos tenemos Webpack o Parcel.
+>
 >* Cita y explica al menos 3 comandos de Git.
 >
 > git init: permite crear un nuevo repositorio.
@@ -40,4 +42,8 @@ gestión de módulos.
 >
 >* Cita y explica brevemente las características más definitorias de WebPack.
 >
-> 
+> Permite manejar todos los archivos que se utilizan para el desarrollo de una aplicación web.
+>
+> No se limita únicamente a manejar archivos de JavaScript, maneja cualquier tipo de archivo por medio de los loaders.
+>
+> Permite separar el código de la aplicación para que la página no cargue elementos que no sean necesarios hasta que se necesiten.
