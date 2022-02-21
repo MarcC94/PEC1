@@ -41,8 +41,11 @@ ventajas (0.5 puntos)
 >* Cita al menos 4 ventajas que ofrecen estos preprocesadores.
 >
 > -Nesting.
+>
 > -Extends.
+>
 > -Mixins.
+>
 > -Pre-built functions.
 >
 >* Explica brevemente en qué consisten los sourcemaps.
