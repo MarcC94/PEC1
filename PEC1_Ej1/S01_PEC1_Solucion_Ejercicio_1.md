@@ -1,5 +1,4 @@
-> Ejercicio 1 - La aparición de HTML5/CSS3/JS ha supuesto el nacimiento del desarrollo front-end
-moderno. (0.75 puntos)
+> Ejercicio 1 - La aparición de HTML5/CSS3/JS ha supuesto el nacimiento del desarrollo front-end moderno. (0.75 puntos)
 >
 >* ¿Cuál es la ventaja del uso de etiquetas semánticas? Nombra y explica al
 menos 3 de estas ventajas.
@@ -32,6 +31,10 @@ como controles de versiones y herramientas de gestión de módulos (0.75 puntos)
 gestión de módulos.
 >
 >* Cita y explica al menos 3 comandos de Git.
+>
+> git init: permite crear un nuevo repositorio
+> git status: permite ver en qué estado se encuentran los archivos de nuestro repositorio.
+> git add: indica a git que prepare los cambios para que sean almacenados.
 >
 >* Cita y explica brevemente las características más definitorias de WebPack.
 >
