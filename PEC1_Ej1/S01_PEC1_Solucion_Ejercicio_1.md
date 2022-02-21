@@ -1,6 +1,4 @@
-> Ejercicio 1
->
-> La aparición de HTML5/CSS3/JS ha supuesto el nacimiento del desarrollo front-end
+> Ejercicio 1 - La aparición de HTML5/CSS3/JS ha supuesto el nacimiento del desarrollo front-end
 moderno. (0.75 puntos)
 >
 >* ¿Cuál es la ventaja del uso de etiquetas semánticas? Nombra y explica al
@@ -15,9 +13,7 @@ CSS sobre el mismo elemento en su visualización en diferentes dispositivos
 >* Cita al menos 4 de las características principales de TypeScript (importante
 superset de JavaScript que trataremos en el siguiente capítulo).
 >
-> Ejercicio 2
-> 
-> El lenguaje CSS es muy rígido, poco práctico y ordenado a la hora de programar. Para
+> Ejercicio 2 - El lenguaje CSS es muy rígido, poco práctico y ordenado a la hora de programar. Para
 evitar este problema se han creado los preprocesadores CSS, que ofrecen evidentes
 ventajas (0.5 puntos)
 >
@@ -29,9 +25,7 @@ ventajas (0.5 puntos)
 >
 >* Explica qué es un transpilador.
 >
-> Ejercicio 3
->
-> El flujo de trabajo profesional en front-end hace indispensable el uso de herramientas
+> Ejercicio 3 - El flujo de trabajo profesional en front-end hace indispensable el uso de herramientas
 como controles de versiones y herramientas de gestión de módulos (0.75 puntos).
 >
 >* Cita al menos dos sistemas de control de versiones y dos herramientas de
