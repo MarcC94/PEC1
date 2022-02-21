@@ -42,8 +42,8 @@ gestión de módulos.
 >
 >* Cita y explica brevemente las características más definitorias de WebPack.
 >
-> - Permite manejar todos los archivos que se utilizan para el desarrollo de una aplicación web.
+> -Permite manejar todos los archivos que se utilizan para el desarrollo de una aplicación web.
 >
-> - No se limita únicamente a manejar archivos de JavaScript, maneja cualquier tipo de archivo por medio de los loaders.
+> -No se limita únicamente a manejar archivos de JavaScript, maneja cualquier tipo de archivo por medio de los loaders.
 >
-> - Permite separar el código de la aplicación para que la página no cargue elementos que no sean necesarios hasta que se necesiten.
+> -Permite separar el código de la aplicación para que la página no cargue elementos que no sean necesarios hasta que se necesiten.
