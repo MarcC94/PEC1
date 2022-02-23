@@ -6,4 +6,8 @@
 >
 > PEC1_Ej2_1 
 >
-> - lklklkdcdc
+> - Se añaden nuevos campos para edad y url personal en el formulario.
+> 
+> - Comprobación de que la edad es mayor o igual a 0 e inferior a 999.
+>
+> - Comprobación que la url es válida.
