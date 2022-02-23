@@ -14,11 +14,11 @@
     margin: 0;
   }
   
-  .movie-container {
+  .options-container {
     margin: 20px 0;
   }
   
-  .movie-container select {
+  .options-container select {
     background-color: #fff;
     border: 0;
     border-radius: 5px;

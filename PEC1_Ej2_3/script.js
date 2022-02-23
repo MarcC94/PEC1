@@ -3,6 +3,9 @@ const seats = document.querySelectorAll('.row .seat:not(.occupied)');
 const count = document.getElementById('count');
 const total = document.getElementById('total');
 const movieSelect = document.getElementById('movie');
+const currencySelect = document.getElementById('currency');
+const currency = document.getElementById('currency-name');
+
 
 populateUI();
 
@@ -26,7 +29,7 @@ function updateSelectedCount() {
 
   count.innerText = selectedSeatsCount;
   total.innerText = selectedSeatsCount * ticketPrice;
-  
+
   setMovieData(movieSelect.selectedIndex, movieSelect.value);
 }
 
@@ -48,6 +51,11 @@ function populateUI() {
     movieSelect.selectedIndex = selectedMovieIndex;
   }
 }
+
+// Currency select event
+currencySelect.addEventListener('change', e => {
+  currency.innerHTML = currencySelect.value;
+});
 
 // Movie select event
 movieSelect.addEventListener('change', e => {
