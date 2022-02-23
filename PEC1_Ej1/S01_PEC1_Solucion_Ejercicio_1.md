@@ -1,6 +1,6 @@
->## Ejercicio 1 - La aparición de HTML5/CSS3/JS ha supuesto el nacimiento del desarrollo front-end moderno. (0.75 puntos)
+># Ejercicio 1 - La aparición de HTML5/CSS3/JS ha supuesto el nacimiento del desarrollo front-end moderno. (0.75 puntos)
 >
-> # ¿Cuál es la ventaja del uso de etiquetas semánticas? Nombra y explica al menos 3 de estas ventajas.
+>## ¿Cuál es la ventaja del uso de etiquetas semánticas? Nombra y explica al menos 3 de estas ventajas.
 >
 > -Accesibilidad.
 > 
@@ -8,7 +8,7 @@
 >
 > -Practicidad.
 >
->* Cita al menos 3 APIs HTML5 y explica brevemente su funcionalidad.
+>## Cita al menos 3 APIs HTML5 y explica brevemente su funcionalidad.
 >
 > -classList: devuelve una colección de los atributos de clase de un elemento.
 >
@@ -16,11 +16,11 @@
 >
 > -DOM: facilita una representación estructurada del documento.
 >
->* Cita qué opción ofrece CSS3 para conseguir que se apliquen diferentes estilos CSS sobre el mismo elemento en su visualización en diferentes dispositivos (diferentes tamaños de pantalla).
+>## Cita qué opción ofrece CSS3 para conseguir que se apliquen diferentes estilos CSS sobre el mismo elemento en su visualización en diferentes dispositivos (diferentes tamaños de pantalla).
 >
 > La opción que ofrece son los MediaQueries.
 >
->* Cita al menos 4 de las características principales de TypeScript (importante superset de JavaScript que trataremos en el siguiente capítulo).
+>## Cita al menos 4 de las características principales de TypeScript (importante superset de JavaScript que trataremos en el siguiente capítulo).
 >
 > -Lenguaje compilado.
 >
@@ -30,15 +30,13 @@
 >
 > -Inyección de dependencias mas sencilla que en ES6.
 >
-> Ejercicio 2 - El lenguaje CSS es muy rígido, poco práctico y ordenado a la hora de programar. Para
-evitar este problema se han creado los preprocesadores CSS, que ofrecen evidentes
-ventajas (0.5 puntos)
+># Ejercicio 2 - El lenguaje CSS es muy rígido, poco práctico y ordenado a la hora de programar. Para evitar este problema se han creado los preprocesadores CSS, que ofrecen evidentes ventajas (0.5 puntos)
 >
->* Cita al menos 2 de estos preprocesadores.
+>## Cita al menos 2 de estos preprocesadores.
 >
 > Dos de los preprocesadores CSS mas conocidos son Sass y SCSS.
 >
->* Cita al menos 4 ventajas que ofrecen estos preprocesadores.
+>## Cita al menos 4 ventajas que ofrecen estos preprocesadores.
 >
 > -Nesting.
 >
@@ -48,23 +46,21 @@ ventajas (0.5 puntos)
 >
 > -Pre-built functions.
 >
->* Explica brevemente en qué consisten los sourcemaps.
+>## Explica brevemente en qué consisten los sourcemaps.
 >
 > Los sourcemaps son un mapeo entre el código original y el código transformado, permitiendonos debuggear nuestro código sin preocupaciones. Vale tanto para JS como para CSS.
 >
->* Explica qué es un transpilador.
+>## Explica qué es un transpilador.
 >
 > Un transpilador traduce un lenguaje fuente a otro de un nivel parecido. Un ejemplo es Cfront, que traduce de C++ a C.
 >
-> Ejercicio 3 - El flujo de trabajo profesional en front-end hace indispensable el uso de herramientas
-como controles de versiones y herramientas de gestión de módulos (0.75 puntos).
+># Ejercicio 3 - El flujo de trabajo profesional en front-end hace indispensable el uso de herramientas como controles de versiones y herramientas de gestión de módulos (0.75 puntos).
 >
->* Cita al menos dos sistemas de control de versiones y dos herramientas de
-gestión de módulos.
+>## Cita al menos dos sistemas de control de versiones y dos herramientas de gestión de módulos.
 >
 > Dos sistemas de control de versiones pueden ser Concurrent Version System o CVS y el propio Git que utilizamos en la asignatura. Como ejemplos de herramientas de gestión de módulos tenemos Webpack o Parcel.
 >
->* Cita y explica al menos 3 comandos de Git.
+>## Cita y explica al menos 3 comandos de Git.
 >
 > -git init: permite crear un nuevo repositorio.
 >
@@ -72,7 +68,7 @@ gestión de módulos.
 >
 > -git add: indica a git que prepare los cambios para que sean almacenados.
 >
->* Cita y explica brevemente las características más definitorias de WebPack.
+>## Cita y explica brevemente las características más definitorias de WebPack.
 >
 > -Permite manejar todos los archivos que se utilizan para el desarrollo de una aplicación web.
 >
