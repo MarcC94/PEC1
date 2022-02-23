@@ -11,3 +11,19 @@
 > - Comprobación de que la edad es mayor o igual a 0 e inferior a 999.
 >
 > - Comprobación que la url es válida.
+>
+> PEC1_Ej2_2 
+>
+> - 
+> 
+> - 
+>
+> - 
+>
+> PEC1_Ej2_3 
+>
+> - 
+> 
+> - 
+>
+> - 
