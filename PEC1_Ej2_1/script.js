@@ -63,12 +63,17 @@ function checkPasswordMatch(input1, input2){
 
 //Check age
 function checkAge(input, min, max){
-    if(input.value < min){
-        showError(input, `${getFieldName(input)} must be at least ${min}`);
-    } else if(input.value > max){
-        showError(input, `${getFieldName(input)} must be less than ${max}`);
-    } else{
-        showSuccess(input);
+    if (input.value.length <= 0){
+        showError(input, `${getFieldName(input)} is required`);
+    }
+    else{
+        if(input.value < min){
+            showError(input, `${getFieldName(input)} must be at least ${min}`);
+        } else if(input.value > max){
+            showError(input, `${getFieldName(input)} must be less than ${max}`);
+        } else{
+            showSuccess(input);
+        }
     }
 }
 
