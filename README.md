@@ -18,9 +18,10 @@
 >
 > - Creación de una calculadora de tipos de cambio de moneda siguiendo el video ejemplo.
 > 
-> - 
+> - Se añade un mensaje de error si se produce un problema en la petición fetch con el método catch.
 >
-> - 
+> - Se muestra un mensaje de espera por pantalla cuando se realiza la consulta a la API. Para ello se han 
+> - añadido las funciones displayLoading() y hideLoading().
 >
 > PEC1_Ej2_3 
 >

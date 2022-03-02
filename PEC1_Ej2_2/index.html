@@ -13,6 +13,7 @@
     <p>Choose the currency and the amounts to get the exchange rate</p>
 
     <div class="container">
+      <div id="loading"></div>
       <div class="currency">
         <select id="currency-one">
           <option value="AED">AED</option>
@@ -68,7 +69,7 @@
           <option value="VND">VND</option>
           <option value="ZAR">ZAR</option>
         </select>
-        <input type="number" id="amount-one" placeholder="0" value="1" />
+        <input type="number" id="amount-one" placeholder="0" value="1" min="0"/>
       </div>
 
       <div class="swap-rate-container">
@@ -133,7 +134,7 @@
           <option value="VND">VND</option>
           <option value="ZAR">ZAR</option>
         </select>
-        <input type="number" id="amount-two" placeholder="0" />
+        <input type="number" id="amount-two" placeholder="0" min="0"/>
       </div>
     </div>
 
