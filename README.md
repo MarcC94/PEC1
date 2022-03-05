@@ -10,9 +10,9 @@
 >
 > - Se añaden nuevos campos para edad y url personal en el formulario.
 > 
-> - Comprobación de que la edad es mayor o igual a 0 e inferior a 999 mediante la función "checkAge".
+> - Comprobación de que la edad es mayor o igual a 0 e inferior a 999 mediante la función checkAge().
 >
-> - Comprobación de que la url es válida mediante la función "checkUrl".
+> - Comprobación de que la url es válida mediante la función checkUrl().
 >
 > PEC1_Ej2_2 
 >
@@ -23,10 +23,10 @@
 > - Se muestra un mensaje de espera por pantalla cuando se realiza la consulta a la API. Para ello se han 
 > añadido las funciones displayLoading() y hideLoading().
 >
+> - Se utiliza el atributo min en el input html para definir el valor mínimo aceptable y válido.
+>
 > PEC1_Ej2_3 
 >
 > - Creación de una aplicación de reserva de asientos de cine siguiendo el video ejemplo.
 > 
-> - 
->
-> - 
+> - Se añade desplegable que permite seleccionar la moneda.
