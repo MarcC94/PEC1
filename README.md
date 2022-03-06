@@ -4,6 +4,8 @@
 >
 >### Descripción realización PEC:
 >
+>### Enlace github PEC: https://github.com/MarcC94/PEC1.git
+>
 > PEC1_Ej2_1 
 >
 > - Creación del formulario siguiendo el video ejemplo.
