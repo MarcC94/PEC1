@@ -2,9 +2,9 @@
 >
 >### Nombre y apellidos: Marc Cañabate Parra
 >
->### Descripción realización PEC:
->
 >### Enlace github PEC: https://github.com/MarcC94/PEC1.git
+>
+>### Descripción realización PEC:
 >
 > PEC1_Ej2_1 
 >
